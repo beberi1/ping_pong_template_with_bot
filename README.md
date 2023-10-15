@@ -1,6 +1,6 @@
-## Pygame 2-Player Game with RL Bot
+# Pygame 2-Player Game with RL Bot
 
-## Installation
+### Installation
 pip install pygame
 
 Code creates pygame window
