@@ -1,4 +1,4 @@
-# Pygame 2-Player Game with RL Bot
+## Pygame 2-Player Game with RL Bot
 
 ## Installation
 pip install pygame
