@@ -1,14 +1,14 @@
 # Pygame 2-Player Game with RL Bot
 
 ### Installation
-pip install pygame
+* pip install pygame
+------------------------------------------
+* Code creates pygame window
 
-Code creates pygame window
+* It will show 2 players 
 
-It will show 2 players 
+* The left player (bot) follows the ball using a predefined algorithm.
 
-The left player (bot) follows the ball using a predefined algorithm.
+* right one will be player
 
-right one will be player
-
-score will be shown in terminal
+* score will be shown in terminal
